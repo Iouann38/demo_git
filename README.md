@@ -1,3 +1,5 @@
 # demo_git
 Une démo GIT
-Modifiée pour GitHub
+Modifiée pour GitHub.
+
+Une modification depuis machine locale
